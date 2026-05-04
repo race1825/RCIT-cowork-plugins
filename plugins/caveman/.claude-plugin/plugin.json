@@ -1,0 +1,12 @@
+{
+  "name": "caveman",
+  "version": "1.0.0",
+  "description": "Ultra-compressed output mode (~75% fewer tokens) for casual / low-stakes work. Three intensity levels (lite / full / ultra). Explicit-invocation only — never auto-fires. Adapted from JuliusBrussee/caveman (MIT) as a single-file opt-in skill.",
+  "author": {
+    "name": "Horace B. Briones",
+    "email": "race182507@gmail.com"
+  },
+  "homepage": "https://github.com/race1825/RCIT-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["compression", "tokens", "concise", "rcit"]
+}

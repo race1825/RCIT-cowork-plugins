@@ -1,0 +1,12 @@
+{
+  "name": "rcit-design",
+  "version": "1.0.0",
+  "description": "Race-Conz IT Solutions design toolkit — synthesizes Stitch projects into a semantic DESIGN.md design system. Bundles design-md.",
+  "author": {
+    "name": "Horace B. Briones",
+    "email": "race182507@gmail.com"
+  },
+  "homepage": "https://github.com/race1825/RCIT-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["rcit", "race-conz", "design", "design-system", "stitch", "ui"]
+}

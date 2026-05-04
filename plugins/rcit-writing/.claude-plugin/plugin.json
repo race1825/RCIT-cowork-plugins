@@ -1,0 +1,12 @@
+{
+  "name": "rcit-writing",
+  "version": "1.0.0",
+  "description": "Race-Conz IT Solutions writing toolkit — proposals, blog posts, web copy, case studies, and RCIT delivery guidelines for IT consulting work in the Bicol region. Bundles RCIT-writing-skill, rcit-guidelines, and enhance-prompt.",
+  "author": {
+    "name": "Horace B. Briones",
+    "email": "race182507@gmail.com"
+  },
+  "homepage": "https://github.com/race1825/RCIT-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["rcit", "race-conz", "writing", "proposals", "it-consulting", "bicol", "philippines"]
+}

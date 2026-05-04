@@ -1,0 +1,46 @@
+{
+  "name": "rcit-cowork-plugins",
+  "owner": {
+    "name": "Horace B. Briones",
+    "email": "race182507@gmail.com",
+    "url": "https://github.com/race1825"
+  },
+  "metadata": {
+    "description": "RCIT Cowork Plugins — themed skill bundles by Race-Conz IT Solutions for writing, design, SEO, and concise output. Built for IT consulting work serving LGUs, cooperatives, hotels/resorts, and SMBs in the Bicol region.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "rcit-writing",
+      "source": "./plugins/rcit-writing",
+      "description": "Race-Conz writing toolkit — proposals, blog posts, web copy, case studies, and RCIT delivery guidelines.",
+      "version": "1.0.0",
+      "category": "writing",
+      "tags": ["proposals", "writing", "it-consulting", "rcit"]
+    },
+    {
+      "name": "rcit-design",
+      "source": "./plugins/rcit-design",
+      "description": "Race-Conz design toolkit — synthesizes Stitch projects into a semantic DESIGN.md design system.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["design", "design-system", "stitch"]
+    },
+    {
+      "name": "rcit-seo",
+      "source": "./plugins/rcit-seo",
+      "description": "Race-Conz SEO playbook — meta tags, Open Graph, JSON-LD schema, sitemap, robots.txt, performance hints.",
+      "version": "1.0.0",
+      "category": "seo",
+      "tags": ["seo", "metadata", "schema"]
+    },
+    {
+      "name": "caveman",
+      "source": "./plugins/caveman",
+      "description": "Ultra-compressed output mode (~75% fewer tokens) for casual / low-stakes work. Explicit-invocation only.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": ["compression", "tokens", "concise"]
+    }
+  ]
+}

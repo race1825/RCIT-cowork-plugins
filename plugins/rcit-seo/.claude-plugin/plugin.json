@@ -1,0 +1,12 @@
+{
+  "name": "rcit-seo",
+  "version": "1.0.0",
+  "description": "Race-Conz IT Solutions SEO playbook — applies meta tags, Open Graph, JSON-LD schema, sitemap, robots.txt, and performance hints to any website project. Bundles websiteSEO.",
+  "author": {
+    "name": "Horace B. Briones",
+    "email": "race182507@gmail.com"
+  },
+  "homepage": "https://github.com/race1825/RCIT-cowork-plugins",
+  "license": "MIT",
+  "keywords": ["rcit", "race-conz", "seo", "metadata", "schema", "open-graph"]
+}
