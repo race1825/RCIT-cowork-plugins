@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RCIT Cowork Plugins
 
 A Claude Cowork / Claude Code plugin marketplace by **Race-Conz IT Solutions**, owned by Horace B. "Race" Briones — Proprietor & Project Manager.
@@ -68,3 +69,7 @@ MIT. The `caveman` skill is adapted from [JuliusBrussee/caveman](https://github.
 **Race-Conz IT Solutions** — Cybersecurity, structured cabling, IT consulting, system development, and home automation for the Bicol region. Sophos & Microsoft partner. 18+ years in IT.
 
 Maintained by [Horace B. "Race" Briones](https://github.com/race1825).
+=======
+# RCIT-cowork-plugins
+RCIT-cowork-plugins
+>>>>>>> 78e2fbdc63a5380b6c519b66a5edb0e8cc36c9ca
